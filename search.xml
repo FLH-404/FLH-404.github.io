@@ -22,6 +22,58 @@
       </tags>
   </entry>
   <entry>
+    <title>JAVA全站知识</title>
+    <url>/2024/06/20/JAVA%E5%85%A8%E7%AB%99%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<div class="vkr-url-wrapper">
+<style>
+.vkr-url-wrapper {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #eee #ddd #bbb;
+    box-shadow: rgba(0,0,0,.14) 0 1px 3px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.vkr-url-wrapper .desc-wrapper > hr {
+    margin: 10px 0;
+    height: 1px;
+}
+.vkr-url-wrapper .avatar {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #eee;
+    box-shadow: none!important;
+    margin: 0;
+    margin-right: 10px;
+}
+.vkr-url-wrapper h2 {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.vkr-url-wrapper .desc-wrapper {
+    flex: 1;
+}
+.vkr-url-wrapper .desc-wrapper a {
+    font-size: 22px;
+    font-weight: 700;
+}
+</style>
+    
+    <div class="desc-wrapper">
+        <a href="https://pdai.tech/md/interview/x-interview.html">https://pdai.tech/md/interview/x-interview.html</a>
+        <hr />
+        <div class="desc"></div>
+    </div>
+</div>
+]]></content>
+      <tags>
+        <tag>JAVA</tag>
+        <tag>知识点</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图标网站收录</title>
     <url>/2024/06/20/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95/</url>
     <content><![CDATA[<h3 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h3><p><a href="https://fontawesome.p2hp.com/faicons.html">https://fontawesome.p2hp.com/faicons.html</a></p>
@@ -38,7 +90,8 @@
   <entry>
     <title>文章功能测试</title>
     <url>/2024/06/20/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<h2 id="文章内功能测试"><a href="#文章内功能测试" class="headerlink" title="文章内功能测试"></a>文章内功能测试</h2><h4 id="B站视频卡片"><a href="#B站视频卡片" class="headerlink" title="B站视频卡片"></a>B站视频卡片</h4><div class="bvideo"><a href="//www.bilibili.com/video/BV1Es4y1q7Bf" target="_blank">
+    <content><![CDATA[<h2 id="文章内功能测试"><a href="#文章内功能测试" class="headerlink" title="文章内功能测试"></a>文章内功能测试</h2><p><a href="https://hexo.io/plugins/">插件</a></p>
+<h4 id="B站视频卡片"><a href="#B站视频卡片" class="headerlink" title="B站视频卡片"></a>B站视频卡片</h4><div class="bvideo"><a href="//www.bilibili.com/video/BV1Es4y1q7Bf" target="_blank">
         <div class="bvideo-box">
             <div class="bvideo-cover">
                 <div class="cover-default"></div>
@@ -75,35 +128,35 @@
 <p>使用 skinview3d 展示 minecraft 皮肤 3D 模型</p>
 </blockquote>
 <div style="margin:0 auto; width: 100px">
-                <canvas id="mcskin2230"></canvas>    
+                <canvas id="mcskin3762"></canvas>    
             </div>
             <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>
             <script>
                 setTimeout(() => {
-                    let skinViewermcskin2230 = new skinview3d.SkinViewer({
-                        canvas: document.getElementById("mcskin2230"),
+                    let skinViewermcskin3762 = new skinview3d.SkinViewer({
+                        canvas: document.getElementById("mcskin3762"),
                         width: 100,
                         height: 200,
                         skin: "https://mineskin.eu/skin/ATouuuu"
                     });
-                    skinViewermcskin2230.autoRotate = true;
-                    skinViewermcskin2230.animation = new skinview3d.WalkingAnimation();
+                    skinViewermcskin3762.autoRotate = true;
+                    skinViewermcskin3762.animation = new skinview3d.WalkingAnimation();
                 }, 500);
             </script>
 <div style="margin:0 auto; width: 300px">
-                <canvas id="mcskin9400"></canvas>    
+                <canvas id="mcskin954"></canvas>    
             </div>
             <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>
             <script>
                 setTimeout(() => {
-                    let skinViewermcskin9400 = new skinview3d.SkinViewer({
-                        canvas: document.getElementById("mcskin9400"),
+                    let skinViewermcskin954 = new skinview3d.SkinViewer({
+                        canvas: document.getElementById("mcskin954"),
                         width: 300,
                         height: 400,
                         skin: "https://mineskin.eu/skin/D_Sketon"
                     });
-                    skinViewermcskin9400.autoRotate = true;
-                    skinViewermcskin9400.animation = new skinview3d.WalkingAnimation();
+                    skinViewermcskin954.autoRotate = true;
+                    skinViewermcskin954.animation = new skinview3d.WalkingAnimation();
                 }, 500);
             </script>
 
@@ -120,11 +173,186 @@
 
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% markmap 250px %&#125;</span><br><span class="line"></span><br><span class="line">- 使用现有的插件或组件？</span><br><span class="line">  - Mermaid：更偏向流程图</span><br><span class="line">  - Kityminder</span><br><span class="line">    - 现成hexo插件有些小问题。</span><br><span class="line">    - 二次开发，失败</span><br><span class="line">- 找寻相关项目？</span><br><span class="line">- Markmap大法！</span><br><span class="line">  - 直接弄，失败</span><br><span class="line">  - 使用jsdom，失败</span><br><span class="line">  - 寻找现成库，成功</span><br><span class="line">- 咕咕咕咕咕咕咕咕咕咕咕咕</span><br><span class="line">- 凑一下行数让版面好看点</span><br><span class="line">- 现已支持 markdown/链接/等特性</span><br><span class="line">  - [links](https://zhangmaimai.com)</span><br><span class="line">  - **inline** ~~text~~ *styles*</span><br><span class="line">  - multiline</span><br><span class="line">    text</span><br><span class="line">  - `inline code`</span><br><span class="line">  - Katex - $x = &#123;-b \pm \sqrt&#123;b^2-4ac&#125; \over 2a&#125;$</span><br><span class="line">&#123;% endmarkmap %&#125;</span><br></pre></td></tr></table></figure>
 
+
+
+<h4 id="地图"><a href="#地图" class="headerlink" title="地图"></a>地图</h4><p><a href="https://blog.guole.fun/posts/41887/">教程</a></p>
+<link rel="stylesheet" href="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.css"><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.js"></script><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet.ChineseTmsProviders@1.0.4.js"></script><div class="map-box" style="margin: 0.8rem 0 1.6rem 0;"><div id="map-120.101101-30.239119" style="max-width:100%; height:360px;display: block;margin:0 auto;z-index:1;border-radius: 5px;"></div></div><script type="text/javascript">var normalm=L.tileLayer.chinaProvider('GaoDe.Normal.Map',{maxZoom:20,minZoom:1,attribution:'高德地图'});var imgm=L.tileLayer.chinaProvider('GaoDe.Satellite.Map',{maxZoom:20,minZoom:1,attribution:'高德地图'});var imga=L.tileLayer.chinaProvider('GaoDe.Satellite.Annotion',{maxZoom:20,minZoom:1,attribution:'高德地图'});var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:20,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'});routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:21,minZoom:1});var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:21,minZoom:1,attribution:'Google Maps'}),routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:21,minZoom:1,attribution:'Google Maps'});var normalm1=L.tileLayer.chinaProvider('Geoq.Normal.Map',{maxZoom:21,minZoom:1,attribution:'GeoQ'});var normal=L.layerGroup([normalm]),image=L.layerGroup([imgm,imga]);var baseLayers={"高德地图":normal,"智图地图":normalm1,"谷歌地图":normalMap,"高德卫星地图":imgm,"谷歌卫星地图":satelliteMap,"高德卫星标注":image,"谷歌卫星标注":routeMap};var mymap=L.map('map-120.101101-30.239119',{center:[30.239119,120.101101],zoom:15,layers:[normal],zoomControl:false});L.control.layers(baseLayers,null).addTo(mymap);L.control.zoom({zoomInTitle:'放大',zoomOutTitle:'缩小'}).addTo(mymap);var marker = L.marker(['30.239119','120.101101']).addTo(mymap);marker.bindPopup("这里是西湖灵隐寺，据说求姻缘很灵验哦！").openPopup();</script>
+
+<link rel="stylesheet" href="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.css"><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.js"></script><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet.ChineseTmsProviders@1.0.4.js"></script><div id="googleMap-120.101101-30.239119" style="max-width:100%; height:360px;display: block;margin:0 auto;z-index:1;border-radius: 5px;"></div><script type="text/javascript">var normalMap=L.tileLayer.chinaProvider('Google.Normal.Map',{maxZoom:22,minZoom:1,attribution:'Google Maps'}),satelliteMap=L.tileLayer.chinaProvider('Google.Satellite.Map',{maxZoom:22,minZoom:1,attribution:'Google Maps'}),routeMap=L.tileLayer.chinaProvider('Google.Satellite.Annotion',{maxZoom:22,minZoom:1,attribution:'Google Maps'});var baseLayers={"谷歌地图":normalMap,"谷歌卫星图":satelliteMap,"谷歌卫星标注": routeMap};var overlayLayers={};var mymap=L.map("googleMap-120.101101-30.239119",{center:[30.239119,120.101101],zoom:14,layers:[normalMap],zoomControl:false});L.control.layers(baseLayers,null).addTo(mymap);L.control.zoom({zoomInTitle:'放大',zoomOutTitle:'缩小'}).addTo(mymap);var marker = L.marker(['30.239119','120.101101']).addTo(mymap);marker.bindPopup("这里是西湖灵隐寺，据说求姻缘很灵验哦！").openPopup();</script>
+
+<link rel="stylesheet" href="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.css"><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet@1.7.1.js"></script><script data-pjax src="//unpkg.com/hexo-tag-map/lib/leaflet.ChineseTmsProviders@1.0.4.js"></script><div id="geoqMap-120.101101-30.239119" style="max-width:90%; height:320px;display: block;margin:0 auto;z-index:1;border-radius: 5px;"></div><script type="text/javascript">var normalm1=L.tileLayer.chinaProvider('Geoq.Normal.Map',{maxZoom:20,minZoom:1,attribution:'GeoQ'});var normalm2=L.tileLayer.chinaProvider('Geoq.Normal.PurplishBlue',{maxZoom:20,minZoom:1,attribution:'GeoQ'});var normalm3=L.tileLayer.chinaProvider('Geoq.Normal.Gray',{maxZoom:20,minZoom:1,attribution:'GeoQ'});var normalm4=L.tileLayer.chinaProvider('Geoq.Normal.Warm',{maxZoom:20,minZoom:1,attribution:'GeoQ'});var normalm5=L.tileLayer.chinaProvider('Geoq.Theme.Hydro',{maxZoom:20,minZoom:1,attribution:'GeoQ'});var normal=L.layerGroup([normalm1,normalm2,normalm3,normalm4,normalm5]);var baseLayers={"智图地图":normalm1,"午夜蓝":normalm2,"灰色":normalm3,"暖色":normalm4,"水系":normalm5};var mymap=L.map("geoqMap-120.101101-30.239119",{center:[30.239119,120.101101],zoom:13,layers:[normalm3],zoomControl:false});L.control.layers(baseLayers,null).addTo(mymap);L.control.zoom({zoomInTitle:'放大',zoomOutTitle:'缩小'}).addTo(mymap);var marker = L.marker(['30.239119','120.101101']).addTo(mymap);marker.bindPopup("这里是西湖灵隐寺，据说求姻缘很灵验哦！").openPopup();</script>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% + 标签值 + 经度 + 纬度 + 文本 + 缩放等级 + 宽 + 高 + 默认图层 + %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% geoqMap 120.101101,30.239119, 这里是西湖灵隐寺，据说求姻缘很灵验哦！, 13, 90%, 320px, 3 %&#125;</span><br></pre></td></tr></table></figure>
+
+<div class="vkr-url-wrapper">
+<style>
+.vkr-url-wrapper {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #eee #ddd #bbb;
+    box-shadow: rgba(0,0,0,.14) 0 1px 3px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.vkr-url-wrapper .desc-wrapper > hr {
+    margin: 10px 0;
+    height: 1px;
+}
+.vkr-url-wrapper .avatar {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #eee;
+    box-shadow: none!important;
+    margin: 0;
+    margin-right: 10px;
+}
+.vkr-url-wrapper h2 {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.vkr-url-wrapper .desc-wrapper {
+    flex: 1;
+}
+.vkr-url-wrapper .desc-wrapper a {
+    font-size: 22px;
+    font-weight: 700;
+}
+</style>
+    
+    <div class="desc-wrapper">
+        <a href="https://lbs.amap.com/tools/picker">https://lbs.amap.com/tools/picker</a>
+        <hr />
+        <div class="desc"></div>
+    </div>
+</div>
+
+
+
+<h4 id="URL-Card"><a href="#URL-Card" class="headerlink" title="URL Card"></a>URL Card</h4><p><a href="https://github.com/toastsgithub/hexo-valkyr-url?tab=readme-ov-file">教程</a></p>
+<div class="vkr-url-wrapper">
+<style>
+.vkr-url-wrapper {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #eee #ddd #bbb;
+    box-shadow: rgba(0,0,0,.14) 0 1px 3px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.vkr-url-wrapper .desc-wrapper > hr {
+    margin: 10px 0;
+    height: 1px;
+}
+.vkr-url-wrapper .avatar {
+    width: 100px;
+    height: 100px;
+    border: solid 1px #eee;
+    box-shadow: none!important;
+    margin: 0;
+    margin-right: 10px;
+}
+.vkr-url-wrapper h2 {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.vkr-url-wrapper .desc-wrapper {
+    flex: 1;
+}
+.vkr-url-wrapper .desc-wrapper a {
+    font-size: 22px;
+    font-weight: 700;
+}
+</style>
+    
+    <div class="desc-wrapper">
+        <a href="https://lbs.amap.com/tools/picker">https://lbs.amap.com/tools/picker</a>
+        <hr />
+        <div class="desc"></div>
+    </div>
+</div>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% valkyrurl [url=http://example.com] [otherOpt=value] %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% valkyrurl</span><br><span class="line">[url=https://github.com/toastsgithub/valkyr-ssh]</span><br><span class="line">[title=&quot;valkyr ssh manager&quot;]</span><br><span class="line">[avatar=http://images2.dzmtoast.top/post-cover/github-logo_hub2899c31b6ca7aed8d6a218f0e752fe4_46649_1200x1200_fill_box_center_2.png]</span><br><span class="line">[desc=&quot;valkyr-ssh, a simple commandline tool to help you store ssh login address&quot;]</span><br><span class="line">%&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<h4 id="DOUBAN-CARD"><a href="#DOUBAN-CARD" class="headerlink" title="DOUBAN CARD"></a>DOUBAN CARD</h4><p><a href="https://github.com/TankNee/hexo-douban-card">教程</a></p>
+<div class="douban-card-block">
+    <a class="douban-card" href="https://movie.douban.com/subject/24745500">
+        <div bg-lazy class="douban-card-bgimg" style="background-image: url('https://images.weserv.nl/?url=https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2194066391.jpg');"></div>
+        <div class="douban-card-left">
+            <div bg-lazy class="douban-card-img" style="background-image: url('https://images.weserv.nl/?url=https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2194066391.jpg');"></div>
+            <div class="douban-card-status">灯影绰约</div>
+        </div>
+        <div class="douban-card-right">
+            <div class="douban-card-item"><span>电影名: </span><strong>绣春刀(2014)</strong></div>
+            <div class="douban-card-item"><span>导演: </span><span>路阳</span></div>
+            <div class="douban-card-item"><span>主演: </span><span>张震/刘诗诗</span></div>
+            <div class="douban-card-item"><span>上映时间: </span><span>2014-08-07(中国大陆)</span></div>
+            <div class="douban-card-item"><span>评分: </span><span>7.7</span></div>
+        </div>
+    </a>
+</div>
+
+<div class="douban-card-block">
+    <a class="douban-card" href="https://book.douban.com/subject/30376420">
+        <div bg-lazy class="douban-card-bgimg" style="background-image: url('https://images.weserv.nl/?url=https://img1.doubanio.com/view/subject/s/public/s30015279.jpg');">
+        </div>
+        <div class="douban-card-left">
+            <div bg-lazy class="douban-card-img" style="background-image: url('https://images.weserv.nl/?url=https://img1.doubanio.com/view/subject/s/public/s30015279.jpg');">
+            </div>
+            <div class="douban-card-status">见字如晤</div>
+        </div>
+        <div class="douban-card-right" style="line-height: 1.7;">
+            <div class="douban-card-item"><span>书名: </span><strong>一个人生活</strong></div>
+            <div class="douban-card-item"><span>作者: </span><span>[日]谷川俊太郎</span></div>
+            <div class="douban-card-item"><span>出版年份: </span><span>2019-3</span></div>
+            <div class="douban-card-item"><span>评分: </span><span>7.0</span></div>
+        </div>
+    </a>
+</div>
+
+<div class="douban-card-block">
+	<a class="douban-card" href="https://music.douban.com/subject/35099703">
+		<div bg-lazy class="douban-card-bgimg" style="background-image: url('https://images.weserv.nl/?url=https://img1.doubanio.com/view/subject/m/public/s33667479.jpg');"></div>
+		<div class="douban-card-left">
+			<div bg-lazy class="douban-card-img" style="background-image: url('https://images.weserv.nl/?url=https://img1.doubanio.com/view/subject/m/public/s33667479.jpg');"></div>
+            <div class="douban-card-status">余音绕梁</div>
+        </div>
+		<div class="douban-card-right">
+			<div class="douban-card-item"><span>音乐名: </span><strong>María</strong></div>
+			<div class="douban-card-item"><span>表演者: </span><span>화사/华莎</span></div>
+			<div class="douban-card-item"><span>发行时间: </span><span>2020-06-30</span></div>
+			<div class="douban-card-item"><span>评分: </span><span>8.6</span></div>
+		</div>
+	</a>
+</div>
+
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% douban movie 24745500 %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% douban book 30376420 %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% douban music 35099703 %&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+
+
+<h4 id="BILIBILI-VIDEO"><a href="#BILIBILI-VIDEO" class="headerlink" title="BILIBILI VIDEO"></a>BILIBILI VIDEO</h4><p><a href="https://github.com/Z4Tech/hexo-tag-bilibili">教程</a></p>
+<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+
+<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+
+<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=2333333&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% bilibili [av_id] %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% bilibili [av_id] [page] %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% bilibili 2333333 3 %&#125;</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>功能</category>
       </categories>
       <tags>
+        <tag>插件</tag>
         <tag>测试</tag>
       </tags>
   </entry>

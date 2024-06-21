@@ -1,93 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>图标网站收录</title>
-    <url>/2024/06/20/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95/</url>
-    <content><![CDATA[<h3 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h3><p><a href="https://fontawesome.p2hp.com/faicons.html">https://fontawesome.p2hp.com/faicons.html</a></p>
-<p><a href="https://fontawesome.com/icons?from=io">https://fontawesome.com/icons?from=io</a></p>
-<h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><p><a href="https://blog.zhheo.com/tlink/">https://blog.zhheo.com/tlink/</a></p>
-]]></content>
-      <categories>
-        <category>网站</category>
-      </categories>
-      <tags>
-        <tag>图标</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>JAVA全站知识</title>
-    <url>/2024/06/20/JAVA%E5%85%A8%E7%AB%99%E7%9F%A5%E8%AF%86/</url>
-    <content><![CDATA[<div class="vkr-url-wrapper">
-<style>
-.vkr-url-wrapper {
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid;
-    border-color: #eee #ddd #bbb;
-    box-shadow: rgba(0,0,0,.14) 0 1px 3px;
-    margin-bottom: 10px;
-    display: flex;
-}
-.vkr-url-wrapper .desc-wrapper > hr {
-    margin: 10px 0;
-    height: 1px;
-}
-.vkr-url-wrapper .avatar {
-    width: 100px;
-    height: 100px;
-    border: solid 1px #eee;
-    box-shadow: none!important;
-    margin: 0;
-    margin-right: 10px;
-}
-.vkr-url-wrapper h2 {
-    border: none;
-    margin: 0;
-    padding: 0;
-}
-.vkr-url-wrapper .desc-wrapper {
-    flex: 1;
-}
-.vkr-url-wrapper .desc-wrapper a {
-    font-size: 22px;
-    font-weight: 700;
-}
-</style>
-    
-    <div class="desc-wrapper">
-        <a href="https://pdai.tech/md/interview/x-interview.html">https://pdai.tech/md/interview/x-interview.html</a>
-        <hr />
-        <div class="desc"></div>
-    </div>
-</div>
-]]></content>
-      <tags>
-        <tag>JAVA</tag>
-        <tag>知识点</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HEXO基本使用</title>
-    <url>/2024/06/13/HEXO%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <tags>
-        <tag>教程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>问道</title>
     <url>/2024/06/13/%E9%97%AE%E9%81%93/</url>
     <content><![CDATA[<h2 id="开山第一篇"><a href="#开山第一篇" class="headerlink" title="开山第一篇"></a>开山第一篇</h2><blockquote>
@@ -112,6 +25,62 @@
       </tags>
   </entry>
   <entry>
+    <title>图标网站收录</title>
+    <url>/2024/06/20/%E5%9B%BE%E6%A0%87%E7%BD%91%E7%AB%99%E6%94%B6%E5%BD%95/</url>
+    <content><![CDATA[<h3 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h3><p><a href="https://fontawesome.p2hp.com/faicons.html">https://fontawesome.p2hp.com/faicons.html</a></p>
+<p><a href="https://fontawesome.com/icons?from=io">https://fontawesome.com/icons?from=io</a></p>
+<h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><p><a href="https://blog.zhheo.com/tlink/">https://blog.zhheo.com/tlink/</a></p>
+<h4 id="BLOG"><a href="#BLOG" class="headerlink" title="BLOG"></a>BLOG</h4><p><a href="https://akilar.top/posts/e2bf861f/">https://akilar.top/posts/e2bf861f/</a></p>
+]]></content>
+      <categories>
+        <category>网站</category>
+      </categories>
+      <tags>
+        <tag>图标</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HEXO基本使用</title>
+    <url>/2024/06/13/HEXO%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>JAVA全站知识</title>
+    <url>/2024/06/20/JAVA%E5%85%A8%E7%AB%99%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://pdai.tech/">
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/pdai.tech/.png);"></div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">JAVA知识大全，爱因斯坦都说好！</div>
+            <div class="tag-link-sitename"> JAVA</div>
+        </div>
+        <i class="fa-solid fa-angle-right"></i>
+    </div>
+    </a></div>
+
+]]></content>
+      <tags>
+        <tag>JAVA</tag>
+        <tag>知识点</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>文章功能测试</title>
     <url>/2024/06/20/%E6%96%87%E7%AB%A0%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[<h2 id="文章内功能测试"><a href="#文章内功能测试" class="headerlink" title="文章内功能测试"></a>文章内功能测试</h2><p><a href="https://hexo.io/plugins/">插件</a></p>
@@ -129,7 +98,7 @@
                 <p class="card-status">
                     <span class="play-num">
                         <i class="fa fa-youtube-play"></i>
-                        <span>65.2万</span></span>
+                        <span>65.3万</span></span>
                     <span>
                         <i class="fa fa-list-alt"></i>
                         <span>1.1万</span></span></p>
@@ -152,35 +121,35 @@
 <p>使用 skinview3d 展示 minecraft 皮肤 3D 模型</p>
 </blockquote>
 <div style="margin:0 auto; width: 100px">
-                <canvas id="mcskin9024"></canvas>    
+                <canvas id="mcskin448"></canvas>    
             </div>
             <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>
             <script>
                 setTimeout(() => {
-                    let skinViewermcskin9024 = new skinview3d.SkinViewer({
-                        canvas: document.getElementById("mcskin9024"),
+                    let skinViewermcskin448 = new skinview3d.SkinViewer({
+                        canvas: document.getElementById("mcskin448"),
                         width: 100,
                         height: 200,
                         skin: "https://mineskin.eu/skin/ATouuuu"
                     });
-                    skinViewermcskin9024.autoRotate = true;
-                    skinViewermcskin9024.animation = new skinview3d.WalkingAnimation();
+                    skinViewermcskin448.autoRotate = true;
+                    skinViewermcskin448.animation = new skinview3d.WalkingAnimation();
                 }, 500);
             </script>
 <div style="margin:0 auto; width: 300px">
-                <canvas id="mcskin657"></canvas>    
+                <canvas id="mcskin2966"></canvas>    
             </div>
             <script type='text/javascript' src="https://unpkg.com/skinview3d@3.0.0-alpha.1/bundles/skinview3d.bundle.js"></script>
             <script>
                 setTimeout(() => {
-                    let skinViewermcskin657 = new skinview3d.SkinViewer({
-                        canvas: document.getElementById("mcskin657"),
+                    let skinViewermcskin2966 = new skinview3d.SkinViewer({
+                        canvas: document.getElementById("mcskin2966"),
                         width: 300,
                         height: 400,
                         skin: "https://mineskin.eu/skin/D_Sketon"
                     });
-                    skinViewermcskin657.autoRotate = true;
-                    skinViewermcskin657.animation = new skinview3d.WalkingAnimation();
+                    skinViewermcskin2966.autoRotate = true;
+                    skinViewermcskin2966.animation = new skinview3d.WalkingAnimation();
                 }, 500);
             </script>
 
@@ -425,6 +394,38 @@
 
 <h4 id="视频卡"><a href="#视频卡" class="headerlink" title="视频卡"></a>视频卡</h4><p><a href="https://github.com/m80126colin/hexo-tag-owl?tab=readme-ov-file">https://github.com/m80126colin/hexo-tag-owl?tab=readme-ov-file</a></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% owl youtube youtube_id %&#125;</span><br><span class="line">&#123;% owl niconico niconico_id [type] %&#125;</span><br><span class="line">&#123;% owl bilibili bilibili_id [page] [height] [width] %&#125;</span><br><span class="line">&#123;% owl vimeo vimeo_id %&#125;</span><br><span class="line">&#123;% owl tudou tudou_id %&#125;</span><br><span class="line">&#123;% owl youku youku_id [height] [width] %&#125;</span><br><span class="line">&#123;% owl tencent tencent_id [height] [width] %&#125;</span><br><span class="line">&#123;% owl ted ted_id [lang] %&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<h4 id="URL-CARD"><a href="#URL-CARD" class="headerlink" title="URL CARD"></a>URL CARD</h4><p><a href="https://github.com/minamo173/hexo-tag-link-preview">https://github.com/minamo173/hexo-tag-link-preview</a></p>
+<a href="https://www.baidu.com/" class="link-preview" target="_blank" rel="nofollow"><div class="link-area"><div class="descriptions"><div class="og-title">undefined</div></div></div></a>
+
+<a href="https://www.baidu.com/" class="link-preview" target="_self" rel="nofollow"><div class="link-area"><div class="descriptions"><div class="og-title">undefined</div></div></div></a>
+
+<a href="https://www.amazon.com/" class="link-preview" target="_blank" rel="nofollow"><div class="link-area"><div class="descriptions"><div class="og-title">Amazon.com</div></div></div></a>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% linkPreview https://www.amazon.com/ _blank nofollow %&#125;</span><br><span class="line"></span><br><span class="line">&#123;% linkPreview https://www.amazon.com/ _self nofollow %&#125;</span><br></pre></td></tr></table></figure>
+
+
+
+<p>第二种</p>
+<p><a href="https://blog.zhheo.com/p/ccaf9148.html">https://blog.zhheo.com/p/ccaf9148.html</a></p>
+<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://www.baidu.com/">
+    <div class="tag-link-bottom">
+        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/www.baidu.com/.png);"></div>
+        <div class="tag-link-right">
+            <div class="tag-link-title">获取网站的Favicon图标并显示在你的网页上</div>
+            <div class="tag-link-sitename">百度</div>
+        </div>
+        <i class="fa-solid fa-angle-right"></i>
+    </div>
+    </a></div>
+
+
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#123;% link 获取网站的Favicon图标并显示在你的网页上,百度,https://www.baidu.com/ %&#125;</span><br></pre></td></tr></table></figure>
+
+
 
 ]]></content>
       <categories>
